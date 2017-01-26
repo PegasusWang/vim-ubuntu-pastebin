@@ -1,0 +1,27 @@
+*vim-ubuntu-pastebin.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                  *vim-ubuntu-pastebin*
+
+    1. Intro ...................................... |vim-ubuntu-pastebin-intro|
+    2. Requirements ........................ |vim-ubuntu-pastebin-requirements|
+    3. Usage ...................................... |vim-ubuntu-pastebin-usage|
+    4. Licence .................................. |vim-ubuntu-pastebin-licence|
+===============================================================================
+1. Intro                                            *vim-ubuntu-pastebin-intro*
+
+Overview of plugin
+
+2. Requirements                              *vim-ubuntu-pastebin-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                            *vim-ubuntu-pastebin-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                        *vim-ubuntu-pastebin-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help

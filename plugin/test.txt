@@ -1,0 +1,5 @@
+Beef: 25
+Roast: 25
+Steak: 25
+==========
+Total: 75
